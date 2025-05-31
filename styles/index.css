@@ -1,0 +1,75 @@
+.fst-bnr-text{
+    font-size: 25px;
+    font-weight: regular;
+    text-align: center;
+    color: #ffffff;
+}
+.fst-bnr-title{
+    font-size: 48px;
+    font-weight: black;
+    text-align: center;
+    color: #ffffff;
+    gap: 0px;
+}
+.fst-bnr-subtitle{
+    font-size: 48px;
+    font-weight:black;
+    text-align: center;
+    color: #ffffff;
+}
+.fst-bnr-contain{
+    margin: 146px 320px 180px 350px;
+
+}
+.fst-bnr{
+    background: linear-gradient(180deg, rgb(16, 15, 15) 3.482%,rgba(23, 23, 23, 0) 101.632%),url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 220px 0px 90px;
+    border-radius: 10px;
+
+}
+.scnd-bnr-heading{
+    font-family: inter;
+    font-size: 60px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.scnd-bnr-text{
+    font-family: inter;
+    font-size: 18px;
+    font-weight: medium;
+    color: #FF0000;
+}
+.scnd-bnr-subtitle{
+    font-family: inter;
+    font-size: 35px;
+    font-weight: bold;
+    color: #070211;
+}
+.scnd-bnr-image{
+    height: 400px;
+    width: 700px;
+}
+.scnd-bnr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 90px 398px 0px 399px;
+
+}
+.scnd-bnr-contain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
